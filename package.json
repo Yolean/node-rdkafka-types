@@ -1,6 +1,6 @@
 {
   "name": "@types/node-rdkafka",
-  "version": "2.3.0",
+  "version": "2.3.1",
   "description": "Meant for services that use yolean/node-kafka or https://github.com/Yolean/kafka-cache as Dockerfile FROM",
   "publishConfig": {
     "registry": "http://we-dont-intend-to-publish-this-module.local"
